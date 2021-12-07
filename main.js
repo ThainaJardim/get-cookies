@@ -24,6 +24,7 @@ async function run() {
 
 run();
 
+
 async function getCookies(cep) {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
