@@ -1,0 +1,13 @@
+
+{
+    "url": "https://www.zonasul.com.br/",  
+    "loadPageSelector": ".zonasul-region-selector-0-x-userLocalization",
+    "loadPageSelector2": ".zonasul-region-selector-0-x-newModalDeliveryWrapper",
+    "chooseLocaleSelector": "body > div.render-container.render-route-store-home > div > div.vtex-store__template.bg-base > div > div.vtex-sticky-layout-0-x-wrapper.vtex-sticky-layout-0-x-wrapper--desktop.vtex-sticky-layout-0-x-wrapper--always-stuck > div > div.zonasul-region-selector-0-x-modalContainerFather.zonasul-region-selector-0-x-modalContainerFather--region-selector > div > div > svg",
+    "inputCepSelector": "#input-cep",
+    "submitCepSelector": ".button-region-selector p",
+    "ceps": "['22630011','22280070','22270030','22051020','20070000','22411000','22231130','22260002','22776070','22621200']",
+    "chooseDeliveryWay": "div.zonasul-region-selector-0-x-OptionsModalContainer.zonasul-region-selector-0-x-OptionsModalContainer--region-selector > div:nth-child(2) > div > button",
+    "chooseDeliveryWayScheduled":"div.zonasul-region-selector-0-x-OptionsModalContainer.zonasul-region-selector-0-x-OptionsModalContainer--region-selector > div:nth-child(1) > div > button",
+    
+}
